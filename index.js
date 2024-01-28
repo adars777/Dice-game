@@ -16,6 +16,6 @@ else if(randomImage1 === randomImage2){
 }
 
 else{
-    document.querySelector("h1").innerHTML = "PLayer 2 wins!";
+    document.querySelector("h1").innerHTML = "Player 2 wins!";
 }
 
